@@ -1,0 +1,6 @@
+S:\Career\Web Dev Projects\sidelinr\sidelinr\bin\sidelinr.dll.config
+S:\Career\Web Dev Projects\sidelinr\sidelinr\bin\sidelinr.dll
+S:\Career\Web Dev Projects\sidelinr\sidelinr\bin\sidelinr.pdb
+S:\Career\Web Dev Projects\sidelinr\sidelinr\obj\Debug\sidelinr.csprojResolveAssemblyReference.cache
+S:\Career\Web Dev Projects\sidelinr\sidelinr\obj\Debug\sidelinr.dll
+S:\Career\Web Dev Projects\sidelinr\sidelinr\obj\Debug\sidelinr.pdb
